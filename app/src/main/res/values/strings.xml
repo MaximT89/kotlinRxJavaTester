@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="name">Name</string>
+    <string name="go_to_second_activity">go to second activity</string>
+    <string name="age">Age</string>
+    <string name="look_person">Look person</string>
+</resources>
